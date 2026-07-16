@@ -1,0 +1,14 @@
+Load Balancer
+Caching
+Sharding
+Consistent Hashing
+CDN
+URL Shortener
+WhatsApp
+Instagram Feed
+
+some case studies
+
+also the remaining topics like horizonatal , vertical scaling , indexing , normalization, database / schema designing ,
+Entity Relationship Diagram has already been covered in advance Dev repo 
+
