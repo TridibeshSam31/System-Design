@@ -6,6 +6,20 @@ CDN
 URL Shortener
 WhatsApp
 Instagram Feed
+Replication (high level)
+Sharding (high level)
+ Message Queue (RabbitMQ basics)
+
+
+Notification System
+File Upload Service
+
+Consistent Hashing
+CAP Theorem (high level)
+Horizontal vs Vertical Scaling
+Stateless vs Stateful
+Idempotency
+Rate Limiting
 
 some case studies
 
